@@ -48,7 +48,7 @@ function Projects() {
               title="Nirjay Events"
               description="I developed a MERN stack-based web application for seamless event booking, catering to weddings, birthdays, and other occasions. The platform allowed clients to easily find and book nearby event organizers, integrate secure payment gateways, enable real-time order tracking, and use Context API for efficient state management, enhancing user experience and convenience."
               ghLink="https://github.com/nrv28/Nirjay-Events"
-              demoLink="https://nirjay-events.vercel.app/"              
+              demoLink="https://nrvevents.onrender.com/"              
             />
           </Col>
 
